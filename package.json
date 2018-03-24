@@ -1,6 +1,7 @@
 {
   "name": "tic-tac-toe",
   "version": "0.1.0",
+  "homepage": "https://reactjs.org/tutorial/tutorial.html",
   "private": true,
   "dependencies": {
     "react": "^16.2.0",
